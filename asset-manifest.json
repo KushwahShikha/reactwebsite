@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.1893247d.css",
+    "main.js": "/reactwebsite/static/js/main.3b187c20.js",
+    "static/media/data.png": "/reactwebsite/static/media/data.044748b4ce8c33bbf55c.png",
+    "static/media/Market.png": "/reactwebsite/static/media/Market.8694197ac9f6eec8cfe9.png",
+    "static/media/ai.png": "/reactwebsite/static/media/ai.2641ac006a71310f49f8.png",
+    "static/media/android.png": "/reactwebsite/static/media/android.42dafcfb974bad5b6709.png",
+    "static/media/software.png": "/reactwebsite/static/media/software.7c861d1bffcc50acb063.png",
+    "static/media/web development.png": "/reactwebsite/static/media/web development.487c1e406a7a3c6b44ef.png",
+    "static/media/img2.png": "/reactwebsite/static/media/img2.ae9692a67d55e4142f53.png",
+    "static/media/meeting.png": "/reactwebsite/static/media/meeting.4d398139ff747d6a11f3.png",
+    "index.html": "/reactwebsite/index.html",
+    "main.1893247d.css.map": "/reactwebsite/static/css/main.1893247d.css.map",
+    "main.3b187c20.js.map": "/reactwebsite/static/js/main.3b187c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1893247d.css",
+    "static/js/main.3b187c20.js"
+  ]
+}
